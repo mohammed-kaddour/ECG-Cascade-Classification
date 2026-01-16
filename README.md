@@ -7,7 +7,7 @@ Traditional CNNs often struggle with fine-grained differences between clinically
 
 ## 📸 Dataset Samples
 Here is an example of a processed ECG image used for training:
-![Myocardial Infarction Sample](results/myocardial_infarction.png)
+![Myocardial Infarction Sample](results/myocardial_infarction.jpg)
 *Figure 1: Sample of Myocardial Infarction ECG used in this study.*
 
 ## 🚀 Key Results
